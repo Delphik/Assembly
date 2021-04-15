@@ -2,7 +2,7 @@
 **********************************************************************
 * AUTHOR: MAX HENNY
 * DESCRIPTION: CALCULATES VOLUME OF 2 BOXES AND THEIR AVERAGE
-* STATUS: ???
+* STATUS: NOT WORKING
 **********************************************************************
 EXERONE   CSECT
 * STANDARD ENTRY AND INITIALIZATION:

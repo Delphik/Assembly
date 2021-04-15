@@ -1,0 +1,13 @@
+FIRST    CSECT
+		 BALR  12,0
+		 USING BASE,12
+BASE	 L	   2,X
+		 S     2,Y
+		 A	   2,Z
+		 ST    2,W
+		 BCR   X'F',14
+X		 DC    F'-1'
+Y		 DC    F'2'
+Z		 DC    F'10'
+W		 DS    F
+		 END   FIRST
